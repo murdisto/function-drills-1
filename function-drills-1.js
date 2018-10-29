@@ -1,1 +1,5 @@
-console.log("Hi my name is Scott and I am 138");
+function createGreeting() {
+    console.log('Hi, my name is Lauren');
+}
+
+createGreeting();
